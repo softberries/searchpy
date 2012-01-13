@@ -2,8 +2,8 @@ import urllib2
 import argparse
 from datetime import datetime
 
-mainurl = "http://126.177.15.150/reflexes/common/"
-archiveurl = "http://126.177.15.150/reflexes/common/archive/"
+mainurl = "http://10.0.0.0/reflexes/common/"
+archiveurl = "http://10.0.0.0/reflexes/common/archive/"
 currenturl = ""
 hour = 0
 
